@@ -30,10 +30,6 @@ The bank loan analysis dataset comprises essential fields such as Loan ID, Addre
 **Conclusion:**
 The Details Dashboard streamlines access to critical loan data, facilitating informed decision-making, enhancing operational efficiency, optimizing lending strategies, mitigating risks, and maximizing overall performance.
 
-Getting Started
-1.Clone the Repository: Clone this repository to your local machine using git clone https://github.com/vinayak200227/Bank-Loan-Analysis-using-PowerBI.git.
-2.Open the Power BI Project: Open the .pbix file using Power BI Desktop.
-3.Interact with Dashboards: Explore the interactive dashboards and visualizations to gain insights into bank loan data.
 
 ![Screenshot 2024-05-27 152042](https://github.com/adityadeshmukh1597/Bank-Loan-Analysis/assets/108214450/19255ca4-c845-429e-a103-c69fe3588eb4)
 
