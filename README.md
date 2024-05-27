@@ -34,5 +34,8 @@ The Details Dashboard streamlines access to critical loan data, facilitating inf
 ![Screenshot 2024-05-27 152042](https://github.com/adityadeshmukh1597/Bank-Loan-Analysis/assets/108214450/19255ca4-c845-429e-a103-c69fe3588eb4)
 
 
+![Screenshot 2024-05-27 152000](https://github.com/adityadeshmukh1597/Bank-Loan-Analysis/assets/108214450/f4e43599-2fcc-46d4-9f28-843f1098cc14)
+
+
 
 
